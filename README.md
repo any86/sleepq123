@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 https://github.com/sleepq123/github-readme-stats
 -->
 
-[![Vortesnail's github stats](https://github-readme-stats.vercel.app/api?username=sleepq123&show_icons=true&hide_border=true&title_color=f58220&icon_color=f58220)](https://github.com/vortesnail/)
+[![sleepq123's github stats](https://github-readme-stats.vercel.app/api?username=sleepq123&show_icons=true&hide_border=true&title_color=f58220&icon_color=f58220)](https://github.com/sleepq123/)
 
 🍉 I'm focus on learning and now I want to find a job in web development (hangzhou).
